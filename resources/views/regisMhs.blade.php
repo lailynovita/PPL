@@ -56,6 +56,6 @@
                     </div>
 
                     <button type="submit" class="btn btn-primary" name="submit">Submit</button>
-                    <button type="reset" class="btn btn-danger" name="reset">Reset</button>
+                   
 </body>
 </html>
